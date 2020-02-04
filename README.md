@@ -16,3 +16,6 @@
 *3) Follow the link https://git-scm.com/download/win*
 
 *4) Download and Install the GIT BASH on your PC*
+
+### 
+For my mentors: I allowed myself some humor, but this was all done as part of remembering how the simplified markup language works. In case of incorrect content created by me - I will recreate it.
